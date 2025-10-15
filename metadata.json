@@ -1,0 +1,5 @@
+{
+  "name": "Asistente de Recepción Dental",
+  "description": "Una aplicación de recepción dental que utiliza la API de Gemini para responder a las preguntas más frecuentes de los clientes sobre procedimientos y cuidados dentales, proporcionando explicaciones claras y amigables.",
+  "requestFramePermissions": []
+}
